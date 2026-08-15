@@ -17,7 +17,7 @@
 
 ### About me
 
-Computer science student and full stack developer. I work across **backend** and **frontend**, and I'm comfortable moving between them: I can design a database and its API, and build the interface that consumes it.
+System Engineer student and full stack developer. I work across **backend** and **frontend**, and I'm comfortable moving between them: I can design a database and its API, and build the interface that consumes it.
 
 I'm not tied to a single technology. Tools change from project to project — what stays is understanding how a system is structured, how data is modeled, and how the pieces fit together. When something is needed and I don't know it yet, I learn it.
 
@@ -27,8 +27,6 @@ I'm not tied to a single technology. Tools change from project to project — wh
 - 🎨 **Frontend** — clear interfaces, reusable components, and an experience that feels right
 - 🔗 **End to end** — taking an idea from the database all the way to the screen, without needing someone else to close the loop
 - 🌱 **Fast learner** — I adapt to whatever stack the team uses
-
-**I'm currently looking for** my first opportunity as a developer — an internship or a junior position. If you're hiring or want to see something I've built, reach me at **isaacburgosc@gmail.com** or take a look at my repos below.
 
 ---
 
