@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Isaac%20Burgos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web%20%7C%20Backend%20%26%20Datos&descAlignY=62&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Isaac%20Burgos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web%20-%20Backend%20y%20Datos&descAlignY=62&descSize=14" />
 
 <a href="https://github.com/Isaac1805BC">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Backend+%26+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -56,8 +56,8 @@ Desarrollador Web enfocado en Backend & Datos, siempre aprendiendo algo nuevo.
 
 ### Estadísticas
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Isaac1805BC&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&icon_color=58A6FF&text_color=C9D1D9&title_color=58A6FF&hide=issues" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac1805BC&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&langs_count=6" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isaac1805BC&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac1805BC&theme=github_dark" />
 
 <br/>
 
@@ -88,7 +88,7 @@ Desarrollador Web enfocado en Backend & Datos, siempre aprendiendo algo nuevo.
 <a href="mailto:isaacburgosc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/isaac-burgos-a1b2c3">
+<a href="https://www.linkedin.com/in/PON-TU-LINKEDIN-AQUI">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Isaac1805BC">
