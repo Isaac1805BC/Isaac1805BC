@@ -28,7 +28,7 @@ No me caso con una tecnología. Las herramientas cambian según el proyecto; lo 
 - 🔗 **De punta a punta** — llevar una idea desde la base de datos hasta la pantalla, sin depender de nadie más para cerrar el círculo
 - 🌱 **Aprender rápido** — me adapto al stack que use el equipo
 
-
+**Estoy buscando** mi primera oportunidad como desarrollador — prácticas o posición junior. Si estás contratando o quieres ver algo de lo que he construido, escríbeme a **isaacburgosc@gmail.com** o revisa mis repos aquí abajo.
 
 ---
 
@@ -65,10 +65,6 @@ No me caso con una tecnología. Las herramientas cambian según el proyecto; lo 
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isaac1805BC&theme=github_dark" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac1805BC&theme=github_dark" />
-
-<br/>
-
-<img height="150" src="https://streak-stats.demolab.com?user=Isaac1805BC&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9" />
 
 </div>
 
