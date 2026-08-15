@@ -17,12 +17,18 @@
 
 ### Sobre mí
 
-Desarrollador Full Stack. Me muevo cómodo entre el backend y el frontend, y lo que más disfruto es ver un proyecto completo funcionando de punta a punta.
+Estudiante universitario y desarrollador full stack. Trabajo con **Java y Spring Boot** del lado del servidor y con **React y TypeScript** del lado del cliente. Me interesa entender el sistema completo, no una sola capa.
 
-- 🔭 Construyendo aplicaciones full stack, de la base de datos a la interfaz
-- ⚙️ Backend con Java y Spring Boot, y con Node.js cuando el proyecto lo pide
-- 🎨 Frontend con React, TypeScript y Tailwind
-- 🌱 Aprendiendo a diario sobre arquitectura, datos y buenas prácticas
+Lo que me mueve es resolver el problema. Disfruto pensar cómo se modelan los datos y cómo se estructura una API, pero me importa igual que lo que construyo se sienta bien al usarlo — para mí las dos cosas son el mismo trabajo.
+
+**En qué ando ahora**
+
+- 🔭 Construyendo proyectos full stack de punta a punta: base de datos, API, interfaz y despliegue
+- 🏗️ Profundizando en arquitectura backend con Spring Boot y en diseño de APIs
+- 📱 Explorando Flutter para llevar al móvil lo que hago en web
+- 🌱 Aprendiendo a diario sobre buenas prácticas y código que otros puedan leer
+
+**Estoy buscando** mi primera oportunidad como desarrollador — prácticas o posición junior. Si estás contratando o quieres ver algo de lo que he construido, escríbeme a **isaacburgosc@gmail.com** o revisa mis repos aquí abajo.
 
 ---
 
