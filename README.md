@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isaac%20Burgos&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Web%20%7C%20Backend%20%26%20Datos&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Isaac%20Burgos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web%20%7C%20Backend%20%26%20Datos&descAlignY=62&descSize=14" />
 
 <a href="https://github.com/Isaac1805BC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Backend+%26+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Backend+%26+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,18 +17,12 @@
 
 ### Sobre mí
 
-```yaml
-nombre:     Isaac Burgos
-rol:        Desarrollador Web · Backend & Datos
-estado:     Estudiante en constante aprendizaje
-enfoque:    APIs, bases de datos e interfaces limpias
-me_gusta:   [ código legible, automatizar cosas, café ]
-```
+Desarrollador Web enfocado en Backend & Datos, siempre aprendiendo algo nuevo.
 
-- Construyendo proyectos web de punta a punta, del front al backend
-- Aprendiendo a diario sobre arquitectura, datos y buenas prácticas
-- Abierto a colaborar en proyectos open source
-- Pregúntame sobre JavaScript, Python y bases de datos
+- 🔭 Construyendo proyectos web de punta a punta, del front al backend
+- 🌱 Aprendiendo a diario sobre arquitectura, datos y buenas prácticas
+- 🤝 Abierto a colaborar en proyectos open source
+- 💬 Pregúntame sobre JavaScript, Python y bases de datos
 
 ---
 
