@@ -28,7 +28,7 @@ No me caso con una tecnología. Las herramientas cambian según el proyecto; lo 
 - 🔗 **De punta a punta** — llevar una idea desde la base de datos hasta la pantalla, sin depender de nadie más para cerrar el círculo
 - 🌱 **Aprender rápido** — me adapto al stack que use el equipo
 
-**Estoy buscando** mi primera oportunidad como desarrollador — prácticas o posición junior. Si estás contratando o quieres ver algo de lo que he construido, escríbeme a **isaacburgosc@gmail.com** o revisa mis repos aquí abajo.
+
 
 ---
 
