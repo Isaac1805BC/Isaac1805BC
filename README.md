@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Isaac%20Burgos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web%20-%20Backend%20y%20Datos&descAlignY=62&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Isaac%20Burgos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Full%20Stack&descAlignY=62&descSize=14" />
 
 <a href="https://github.com/Isaac1805BC">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Backend+%26+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -17,12 +17,12 @@
 
 ### Sobre mí
 
-Desarrollador Web enfocado en Backend & Datos, siempre aprendiendo algo nuevo.
+Desarrollador Full Stack. Me muevo cómodo entre el backend y el frontend, y lo que más disfruto es ver un proyecto completo funcionando de punta a punta.
 
-- 🔭 Construyendo proyectos web de punta a punta, del front al backend
+- 🔭 Construyendo aplicaciones full stack, de la base de datos a la interfaz
+- ⚙️ Backend con Java y Spring Boot, y con Node.js cuando el proyecto lo pide
+- 🎨 Frontend con React, TypeScript y Tailwind
 - 🌱 Aprendiendo a diario sobre arquitectura, datos y buenas prácticas
-- 🤝 Abierto a colaborar en proyectos open source
-- 💬 Pregúntame sobre JavaScript, Python y bases de datos
 
 ---
 
@@ -32,21 +32,22 @@ Desarrollador Web enfocado en Backend & Datos, siempre aprendiendo algo nuevo.
 
 <br/>
 
-**Lenguajes**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,nestjs,py&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,flutter&theme=dark" />
 
-**Backend & Datos**
+**Datos y herramientas**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,github&theme=dark" />
 
-**Herramientas**
+**Despliegue**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" />
+<a href="https://railway.app"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="34" /></a>
 
 </div>
 
