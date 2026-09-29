@@ -75,7 +75,7 @@ I'm not tied to a single technology. Tools change from project to project — wh
 <a href="mailto:isaacburgosc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/PON-TU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/isaac-burgos-0a9321279/?isSelfProfile=true)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Isaac1805BC">
